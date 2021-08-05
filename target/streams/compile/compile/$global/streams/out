@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/lautaro/Escritorio/mi git/bigdata/spark-coursera-/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala:84:9: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m        case (key,value) => (key,value.int) ).toList[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/lautaro/Escritorio/mi git/bigdata/spark-coursera-/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala:132:1: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
